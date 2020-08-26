@@ -1,8 +1,8 @@
 {
-  "name": "Twitter Playback Speed Booster",
+  "name": "Tradutor para pronome neutro",
   "version": "1.0",
   "manifest_version": 2,
-  "description": "Twitter Audio and Video Playback Speed Booster",
+  "description": "Esta extensão substitui todos os pronomes em qualquer página por pronomes de gênero neutro.",
   "background": {
       "scripts": ["test.js"]
   }, 
